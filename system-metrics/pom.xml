@@ -1,0 +1,18 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>uk.ac.ucl.eee</groupId>
+  <artifactId>system-metrics</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  	<dependency>
+  		<groupId>uk.ac.ucl.eee</groupId>
+  		<artifactId>cache-management</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>uk.ac.ucl.eee</groupId>
+  		<artifactId>network-graph</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency> 
+  </dependencies>
+</project>
