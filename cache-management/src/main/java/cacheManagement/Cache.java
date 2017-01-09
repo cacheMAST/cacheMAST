@@ -10,6 +10,8 @@ import java.util.ArrayList;
  * the local requests rate
  * a boolean indicating whether it acts as a server or not
  *  
+ *  
+ *  
  * @author Daphne Tuncer
  *
  */
