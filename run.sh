@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Compile
-bash compile.sh
-
 # Launch GUI
 cd cache-mast
 mvn exec:java -Dexec.mainClass='cacheMAsT.GraphicalInterface'
