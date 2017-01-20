@@ -3,3 +3,9 @@ CacheMAST (Cache Management Analysis and Visualisation Tool) is a tool designed 
 
 # Acknowledgments
 This work received funding from the Flamingo Network of Excellence project (318488) of the EU Seventh Framework Programme, and the EPSRC KCN project (EP/L026120/1).
+
+# Launching the software
+* `mvn install` then `mvn compile` on all subprojects by running the `compile.sh` script
+* Launch after compiling Maven projects
+`mvn exec:java -Dexec.mainClass='cacheMAsT.GraphicalInterface'
+* To compile + execute run `compile_and_run.sh`
