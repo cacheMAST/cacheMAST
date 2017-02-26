@@ -1,0 +1,16 @@
+	{
+	"node":[
+		{"nodeID":1,"capacityBytes":200000.0,"isServer":false},
+		{"nodeID":2,"capacityBytes":200000.0,"isServer":false},
+		{"nodeID":3,"capacityBytes":200000.0,"isServer":false},
+		{"nodeID":4,"capacityBytes":200000.0,"isServer":false},
+		{"nodeID":5,"capacityBytes":200000.0,"isServer":false},
+		{"nodeID":6,"capacityBytes":200000.0,"isServer":false},
+		{"nodeID":7,"capacityBytes":200000.0,"isServer":false},
+		{"nodeID":8,"capacityBytes":200000.0,"isServer":false},
+		{"nodeID":9,"capacityBytes":200000.0,"isServer":false},
+		{"nodeID":10,"capacityBytes":200000.0,"isServer":false},
+		{"nodeID":11,"capacityBytes":200000.0,"isServer":false},
+		{"nodeID":12,"capacityBytes":200000.0,"isServer":false}
+		]
+}
